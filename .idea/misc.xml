@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin-pc/AndroidStudioProjects/DiceRollerv2/app/src/main/res/drawable/dice_1.xml" value="0.142" />
+        <entry key="..\:/Users/Admin-pc/AndroidStudioProjects/DiceRollerv2/app/src/main/res/drawable/dice_2.xml" value="0.142" />
         <entry key="..\:/Users/Admin-pc/AndroidStudioProjects/DiceRollerv2/app/src/main/res/layout/activity_main.xml" value="0.16979166666666667" />
       </map>
     </option>
